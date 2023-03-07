@@ -1,0 +1,3 @@
+jaeger:
+  Host: localhost:6831
+  LogSpans: true
